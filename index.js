@@ -1,1 +1,1 @@
-this is demo of git
+this is demo of git in cd
